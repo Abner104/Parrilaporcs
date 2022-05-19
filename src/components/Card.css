@@ -1,0 +1,7 @@
+.general-productos{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 1300px;
+    margin: 0 auto;
+}
